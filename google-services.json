@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234182795210",
+    "project_id": "music-259cd",
+    "storage_bucket": "music-259cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234182795210:android:6c57e6172cdb42618ab933",
+        "android_client_info": {
+          "package_name": "com.example.sonnet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdiT2f_I9Lsb_4X8H2Fw55bR_TZ1iYhzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
